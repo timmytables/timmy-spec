@@ -1,2 +1,2 @@
-# timmy-spec
+# Timmy Specification
 Timmy Format Specification
